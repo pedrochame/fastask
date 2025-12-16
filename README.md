@@ -38,6 +38,9 @@ Os testes cobrem:
   - Tarefa não encontrada (`404`)
   - Erros de validação automática (`422`)
 
+## ▶️ Como testar online
+1. Acesse https://pedrochame.github.io/fastask/frontend/
+
 ## ▶️ Como executar
 1. Clone o repositório:
    ```bash
