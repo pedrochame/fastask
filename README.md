@@ -41,7 +41,7 @@ Os testes cobrem:
 ## ▶️ Como executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/fastask.git
+   git clone https://github.com/pedrochame/fastask.git
    cd fastask
 
 2. Crie o ambiente virtual:
