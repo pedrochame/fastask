@@ -66,4 +66,6 @@ Os testes cobrem:
    ```bash
    uvicorn app.main:app --reload
 
-8. Acesse o Front-End por meio de frontend/index.html
+8. Acesse a documentação da API em http://localhost:8000/docs
+
+9. Acesse o Front-End por meio de frontend/index.html
